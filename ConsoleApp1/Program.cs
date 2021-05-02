@@ -21,8 +21,20 @@ namespace ConsoleApp1
             //var speed = new SpeedLimit();
             //speed.calculateDemerit();
 
-            var three = new DivByThree();
-            three.DivThree();
+            //var three = new DivByThree();
+            //three.DivThree();
+
+            //var sum = new Sum();
+            //sum.addInputs();
+
+            //var factorial = new Factorial();
+            //Console.WriteLine(factorial.findFactorial());
+
+            //var guess = new Guess();
+            //guess.guessRandom();
+
+            var max2 = new Maximum_2();
+            max2.readString();
         }
     }
 }
